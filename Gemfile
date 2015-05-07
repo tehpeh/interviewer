@@ -51,5 +51,6 @@ group :test do
   gem 'spring-commands-cucumber'
   gem 'database_cleaner'
   gem 'poltergeist'
+  gem 'factory_girl_rails'
 end
 
